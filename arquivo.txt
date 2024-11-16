@@ -1,3 +1,2 @@
-Olá Mundo!
-Sómente os 4i20!
-
+M	arquivo.txt
+M	teste.txt
